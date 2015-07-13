@@ -1,8 +1,14 @@
-# about-ndm
-About Nicholas Meredith
+# About Nicholas Meredith
 
-# Social Media Links
+# Where to Find Me
 * G+ https://ndm.id.au/
-* https://github.com/udha
-* https://twitter.com/NicholasMeredith
-* https://facebook.com/NicholasMeredith
+* GH https://github.com/udha
+* T https://twitter.com/NicholasMeredith
+* FB https://facebook.com/NicholasMeredith
+
+| What          | Where                                 |
+| ------------- | ------------------------------------- |
+| Google Plus   | https://ndm.id.au/                    |
+| GitHub        | https://github.com/udha               |
+| Twitter       | https://twitter.com/NicholasMeredith  |
+| Facebook      | https://facebook.com/NicholasMeredith |
