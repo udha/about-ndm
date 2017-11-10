@@ -6,7 +6,7 @@ This section is still pending the pull request to merge the self-promo branch ba
 
 * Currently employed as NOC Manager and Senior Network Engineer at Host Networks ( sales: https://hostnetworks.com.au/ tech: http://tools.as4851.net/ )
 
-**Additional details pending QA testing before final merge request can be completed.**
+---
 
 # Where to Find Me
 
@@ -14,8 +14,8 @@ This section is still pending the pull request to merge the self-promo branch ba
 | ------------- | ------------------------------------- |
 | Google Plus   | https://ndm.id.au/                    |
 | GitHub        | https://github.com/udha               |
-| Twitter       | https://twitter.com/NicholasMeredith  |
+| Twitter       | https://twitter.com/MrNickMeredith    |
 | Facebook      | https://facebook.com/NicholasMeredith |
 
 
-NDM 2015-07-13
+NDM 2017-11-10
