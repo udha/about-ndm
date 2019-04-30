@@ -19,4 +19,4 @@ Described as Network Beast by [some](https://github.com/jbampton), friend by oth
 
 ---
 
-_NDM **~2019-05-01T08:17AEST**_
+_**NDM ~**2019-05-01T08:17AEST_
