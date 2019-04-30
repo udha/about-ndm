@@ -1,6 +1,6 @@
 # About Nicholas Meredith
 
-This section is still pending the pull request to merge the self-promo branch back into master, still ironing out some bugs with that one.
+Described as Network Beast by [some](https://github.com/jbampton), friend by others, and hopefully loving father one day too :)
 
 # History
 
@@ -12,10 +12,10 @@ This section is still pending the pull request to merge the self-promo branch ba
 
 | On            | At                                    |
 | ------------- | ------------------------------------- |
-| Google Plus   | https://ndm.id.au/                    |
+| about-ndm.git | https://ndm.id.au/                    |
 | GitHub        | https://github.com/udha               |
 | Twitter       | https://twitter.com/MrNickMeredith    |
 | Facebook      | https://facebook.com/NicholasMeredith |
 
 
-NDM 2017-11-10
+NDM ~2019-05-01T07:57AEST
