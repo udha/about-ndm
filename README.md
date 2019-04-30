@@ -17,5 +17,6 @@ Described as Network Beast by [some](https://github.com/jbampton), friend by oth
 | Twitter       | https://twitter.com/MrNickMeredith    |
 | Facebook      | https://facebook.com/NicholasMeredith |
 
+---
 
-NDM ~2019-05-01T07:57AEST
+_NDM **~2019-05-01T08:17AEST**_
